@@ -1,0 +1,11 @@
+<!doctype html>                                                                               <!viene usato per essere visualizzato a tutti-->
+<htmls lang="it">                                                                             <!lingua italiano-->
+           <head>                                                                             <!serve per il codice html-->
+           <meta charset="utf-8"/>                                                            <!caratteri occidentali-->
+           <title>maristella</title>                                                          <!titolo file-->
+           </head>
+                   <body>
+<h1>MOZZILLA E' UNA FANTASTICA COMUNITA' DI SVILUPPATORI</h1>
+                   <img src="images/firefox.png" alt="logo firefox"/>                          <!nome immagine, alt=descrizione immagine-->
+                   </body>
+</html>
